@@ -1,6 +1,6 @@
 # 忽略某一个文件（直接写文件名）
-README.md
+# README.md
 
 
 # 忽略文件夹
-text/
+# text/
